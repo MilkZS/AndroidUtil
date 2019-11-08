@@ -1,4 +1,4 @@
-package com.hdzb.util;
+package com.milkz.util;
 
 import org.junit.Test;
 

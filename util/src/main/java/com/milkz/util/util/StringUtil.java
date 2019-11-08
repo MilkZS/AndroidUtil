@@ -1,4 +1,4 @@
-package com.hdzb.util.util;
+package com.milkz.util.util;
 
 /**
  * Create by zuoqi@bhz.com.cn on 2019/4/8 18:31

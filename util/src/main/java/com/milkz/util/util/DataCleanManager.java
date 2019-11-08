@@ -1,4 +1,4 @@
-package com.hdzb.util.util;
+package com.milkz.util.util;
 
 import android.content.Context;
 import android.os.Environment;
